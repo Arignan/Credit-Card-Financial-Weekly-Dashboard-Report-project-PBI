@@ -15,3 +15,6 @@ on dashboard findings to support decision-making
 processes.</li>
 </ol>
 </h2>
+
+<img src="https://github.com/Arignan/Credit-Card-Financial-Weekly-Dashboard-Report-project-PBI/blob/main/img/1.png">
+<img src="https://github.com/Arignan/Credit-Card-Financial-Weekly-Dashboard-Report-project-PBI/blob/main/img/2.png">
