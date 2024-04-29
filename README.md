@@ -18,3 +18,7 @@ processes.</li>
 
 <img src="https://github.com/Arignan/Credit-Card-Financial-Weekly-Dashboard-Report-project-PBI/blob/main/img/1.png">
 <img src="https://github.com/Arignan/Credit-Card-Financial-Weekly-Dashboard-Report-project-PBI/blob/main/img/2.png">
+
+<p>
+Skills-<h3 >Postgresql, Power BI, Data visualization, Data analysis</h3>
+</p>
